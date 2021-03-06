@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   // <React.StrictMode>
     <App />
+     // 1 hour 22 min
   // </React.StrictMode>,
   ,document.getElementById('root')
 );
